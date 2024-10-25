@@ -2,3 +2,6 @@ test
 
 
 Test effectif de fou
+test1
+test2
+test3
